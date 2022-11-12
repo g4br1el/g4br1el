@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi everyone, I am Gabriel Dax
+Welcome to my GitHub profile! Currently, I am a doctoral student at the Technical University of Munich.
 
+Follow me on [LinkedIn](https://www.linkedin.com/in/gadax/) or visit my [personal website](https://g4br1el.github.io/) 
+Personal website.
 <!--
 **g4br1el/g4br1el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
